@@ -2,6 +2,5 @@
 UAS Mobile Programming
 oleh : Riska Fitri Nur Ainy
 12191703
-hasil :
-
+<P>hasil :</p>
 ![](jadi.PNG)
