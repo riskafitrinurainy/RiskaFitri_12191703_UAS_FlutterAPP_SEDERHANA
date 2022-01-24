@@ -4,4 +4,4 @@ oleh : Riska Fitri Nur Ainy
 12191703
 hasil :
 
-![](jadi.Png)
+![](jadi.PNG)
